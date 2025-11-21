@@ -2,7 +2,7 @@
 
 # Project Background
 
-SANA Hotels, a Portuguese hotel chain founded in 1999, owns and operates the Myriad By SANA Hotels (a city hotel) and the EPIC SANA Algarve Hotel (a resort hotel). Collaborating with the Director of Revenue Management, I conduct an analysis to optimize revenue performance, reduce cancellation costs, and improve distribution channel profitability to inform recommendations to Finance, Marketing, and Operations teams. Using recorded booking transactions, this project explores revenue management, booking cancellation rate, direct booking strategy, and guest segmentation characteristics.
+SANA Hotels, a Portuguese hotel chain founded in 1999, owns and operates the Myriad By SANA Hotels (a city hotel) and the EPIC SANA Algarve Hotel (a resort hotel). Collaborating with the Director of Revenue Management, I conduct an analysis to optimize revenue performance, reduce cancellation costs, and improve distribution channel profitability to inform recommendations to the Finance, Marketing, and Operations teams. Using recorded booking transactions, this project explores revenue management, booking cancellation rate, direct booking strategy, and guest segmentation characteristics.
 
 Insights and recommendations are provided in the following key areas:
 
